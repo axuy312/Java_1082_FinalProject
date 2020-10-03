@@ -16,4 +16,6 @@
 # 分數結算:
 ![image](https://github.com/axuy312/Java_1082_FinalProject/blob/master/Description/%E5%88%86%E6%95%B8%E7%B5%90%E7%AE%97.JPG)
 
+<iframe width="500" height="500" src="https://www.youtube.com/embed/XHECZDy_ctg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 此專案僅於期末專題
